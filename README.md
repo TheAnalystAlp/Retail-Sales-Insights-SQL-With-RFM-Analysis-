@@ -20,14 +20,14 @@ At first glance, the data looked messy — inconsistent category names, missing 
 
 # Project Overview
 
-1.Data Validation:Ensured that all records have been implemented and data integrity is intact.
-2.Data Staging:Created staging tables for safe data cleaning and transformation.
-3.Data Cleaning & Missing Values:Handle missing values and standardize inconsistent entries.
-4.Duplicate Handling:Removed that duplicate transactions while maintaining a clean dataset.
-5.Final Data Standardization:Ensured that consistent and accurate categorical data.
-6.Exploratory Data Analysis (EDA):Analysis to understand when,how,where,which product to launch to  marketing campaign on.
-7Advanced Analysis: RFM Segmentation
-8.Summary of Insights will be shown below
+1. Data Validation:Ensured that all records have been implemented and data integrity is intact.
+2. Data Staging:Created staging tables for safe data cleaning and transformation.
+3. Data Cleaning & Missing Values:Handle missing values and standardize inconsistent entries.
+4. Duplicate Handling:Removed that duplicate transactions while maintaining a clean dataset.
+5. Final Data Standardization:Ensured that consistent and accurate categorical data.
+6. Exploratory Data Analysis (EDA):Analysis to understand when,how,where,which product to launch to  marketing campaign on.
+7. Advanced Analysis: RFM Segmentation
+8. Summary of Insights will be shown below
 
 # Tools & Techniques
 *MySQL / SQL**
