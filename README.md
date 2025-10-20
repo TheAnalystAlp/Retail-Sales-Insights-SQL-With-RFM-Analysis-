@@ -30,7 +30,9 @@ At first glance, the data looked messy — inconsistent category names, missing 
 8. Summary of Insights will be shown below
 
 # Tools & Techniques
-* MySQL / SQL**
+* MySQL 
 * Window Functions (ROW_NUMBER, COUNT, SUM)**
 * CTEs for segmentation**
-* RFM Scoring System**
+* RFM Scoring System
+
+
