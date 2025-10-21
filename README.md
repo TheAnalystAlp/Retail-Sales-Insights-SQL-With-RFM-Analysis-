@@ -92,7 +92,9 @@ While only the top 10 customers are displayed here, lower RFM scores in the over
 
 <img width="1750" height="1750" alt="RFM" src="https://github.com/user-attachments/assets/f4cdc976-f2b4-491b-9a7c-aa7ea6bc33e9" />
 
-# Project Overview
+# Links&References
+
+Link for the SQL codes:https://github.com/TheAnalystAlp/Retail-Sales-Insights-SQL-With-RFM-Analysis-/blob/main/Retail_Sales_Insights___SQL(With_RFM_Analysis).ipynb
 
 Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
 
