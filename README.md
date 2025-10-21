@@ -79,11 +79,11 @@ Based solely on these numbers, marketing efforts could be evenly split between t
 
 __RFM Analysis__
 
-RFM looks at below;
+RFM looks at below metrics;
 
-Recency:How recently a customer made a purchase or engaged with the business
-Frequency:How often a customer has made a purchase within a specific time period.
-Monetary Value:The total amount of money the customer has spent with the business over a specific period.
+* Recency:How recently a customer made a purchase or engaged with the business
+* Frequency:How often a customer has made a purchase within a specific time period.
+* Monetary Value:The total amount of money the customer has spent with the business over a specific period.
 
 The RFM analysis places CUST_05 as the top-scoring customer, thanks to their strong Monetary and Frequency scores. CUST_01 follows closely in second place.
 These customers demonstrate high engagement with the company and contribute significant revenue, making them our key accounts.
