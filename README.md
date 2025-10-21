@@ -49,6 +49,7 @@ _ _At first glance, the data looked messy — inconsistent category names, missi
 # Results / Insights 
 
 __Which Customers to Focus on;__
+
 Based on the data (limited to the top 10 for clarity), we can see that the highest average order value belongs to the “Butchers” category, with Customer_5 leading in total spending. This customer also shows significant spending in the Beverages category. Similarly, Customer_13 demonstrates considerable spending in Electric Household Essentials and Food. Therefore, if the campaign were to target specific customers, focusing on these high-value individuals could maximize the overall return and campaign effectiveness.
 
 <img width="1500" height="1500" alt="1" src="https://github.com/user-attachments/assets/414a32a6-472b-43f6-b0d9-e60a3e71bb0f" />
