@@ -48,20 +48,32 @@ _ _At first glance, the data looked messy — inconsistent category names, missi
 
 # Results / Insights 
 
+Let’s explore the types of insights we can present to our management team.
+
 __Which Customers to Focus on;__
 
 Based on the data (limited to the top 10 for clarity), we can see that the highest average order value belongs to the “Butchers” category, with Customer_5 leading in total spending. This customer also shows significant spending in the Beverages category. Similarly, Customer_13 demonstrates considerable spending in Electric Household Essentials and Food. Therefore, if the campaign were to target specific customers, focusing on these high-value individuals could maximize the overall return and campaign effectiveness.
 
 <img width="1500" height="1500" alt="1" src="https://github.com/user-attachments/assets/414a32a6-472b-43f6-b0d9-e60a3e71bb0f" />
 
+__Which Products to Focus on;__
 In this section, we examine which products are frequently purchased.
 Butchers: Item_25_BUT and Item_22_BUT
 Beverages: Item_25_EHE
-These items are among the most frequently bought products. Therefore, our efforts should focus on these categories, as they represent high-demand goods and valuable opportunities for further analysis.
+These items are among the most frequently bought products. Therefore, our efforts should focus on these categories, as they represent high-demand goods.
 
-<img width="1500" height="1500" alt="2" src="https://github.com/user-attachments/assets/05d1d268-f443-4151-b68e-68e3a863f68a" />
+__When to Lauch the marketing campaign__
 
-<img width="151" height="116" alt="3" src="https://github.com/user-attachments/assets/eabd16ce-76a8-4e25-96c5-1c2efebe131d" />
+As could be expected, the end and the beginning of the year are the best periods due to higher sales volumes, which is typical in retail.”
+
+<img width="1500" height="1500" alt="3" src="https://github.com/user-attachments/assets/eabd16ce-76a8-4e25-96c5-1c2efebe131d" />
+
+__Which Location to Launch the Marketing Campaign__
+
+There are only two business locations in the dataset, and the number of transactions is very similar for both. 
+Based solely on these numbers, marketing efforts could be evenly split between the two locations.
+
+<img width="" height="1500" alt="1500" src="https://github.com/user-attachments/assets/45db09fa-11bf-4dc5-a6d9-a4ebb6e963be" />
 
 # Project Overview
 
