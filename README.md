@@ -16,17 +16,17 @@ _ _I looked at the issue as  as a business to problem to launch a marketing camp
 The dataset was originally sourced from Kaggle; however, I modified it to better suit the specific needs of my project.
 Please refer to repository for the altered data set.It contains;
 
-* Transaction_ID *:A unique identifier assigned to each transaction. 
-* Customer_ID *:A unique identifier for each customer
-Category:The general classification of the purchased item 
-Item_ID:A unique code assigned to each product or item. 
-Price_Per_Unit:The cost of one unit of the item purchased. Useful for calculating total spending and identifying pricing trends.
-Quantity:The number of units purchased in the transaction.
-Total_Spent:The total monetary value of the transaction for that item.
-Payment_Method:The method used by the customer to complete the purchase (e.g., Credit Card, Cash, Online Payment). Useful for payment trend analysis.
-Location:The store, city, or region where the transaction took place. Helpful for geographic sales analysis and regional performance comparison.
-Transaction_Date:The date (and possibly time) when the transaction occurred. Essential for time-based analyses, such as monthly sales or seasonal trends.
-Discount_Applied:Indicates whether a discount was used in the transaction (could be a binary indicator or percentage value). Useful for assessing the impact of promotions on sales and customer behavior.
+* Transaction_ID:A unique identifier assigned to each transaction. 
+* Customer_ID:A unique identifier for each customer
+* Category:The general classification of the purchased item 
+* Item_ID:A unique code assigned to each product or item. 
+* Price_Per_Unit:The cost of one unit of the item purchased. Useful for calculating total spending and identifying pricing trends.
+* Quantity:The number of units purchased in the transaction.
+* Total_Spent:The total monetary value of the transaction for that item.
+* Payment_Method:The method used by the customer to complete the purchase (e.g., Credit Card, Cash, Online Payment). Useful for payment trend analysis.
+* Location:The store, city, or region where the transaction took place. Helpful for geographic sales analysis and regional performance comparison.
+* Transaction_Date:The date (and possibly time) when the transaction occurred. Essential for time-based analyses, such as monthly sales or seasonal trends.
+* Discount_Applied:Indicates whether a discount was used in the transaction (could be a binary indicator or percentage value). Useful for assessing the impact of promotions on sales and customer behavior.
 
 
 # Project Overview
