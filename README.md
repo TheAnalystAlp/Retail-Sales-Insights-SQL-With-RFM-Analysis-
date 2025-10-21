@@ -1,7 +1,13 @@
 # Retail Sales Insights | SQL (With RFM Analysis)
 # Overview
 This project demonstrates end-to-end SQL data analysis on a fictional retail store dataset.  
-I have covered every stage of the data analytics lifecycle — from data validation and cleaning to exploratory analysis and advanced customer segmentation (RFM). 
+I have covered every stage of the data analytics lifecycle — from data validation and cleaning to exploratory analysis and advanced customer segmentation (RFM).
+
+# Tools & Techniques
+* MySQL 
+* Window Functions (ROW_NUMBER, COUNT, SUM)**
+* CTEs for segmentation**
+* RFM Scoring System
 
 # Objective
 The goal is to uncover actionable business insights such as:
@@ -42,10 +48,6 @@ _ _At first glance, the data looked messy — inconsistent category names, missi
 7. Advanced Analysis: RFM Segmentation
 8. Summary of Insights will be shown below
 
-# Tools & Techniques
-* MySQL 
-* Window Functions (ROW_NUMBER, COUNT, SUM)**
-* CTEs for segmentation**
-* RFM Scoring System
+# Project Overview
 
 
