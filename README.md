@@ -17,7 +17,7 @@ The dataset was originally sourced from Kaggle; however, I modified it to better
 Please refer to repository for the altered data set.It contains;
 
 * Transaction_ID *:A unique identifier assigned to each transaction. 
-Customer_ID:A unique identifier for each customer
+* Customer_ID *:A unique identifier for each customer
 Category:The general classification of the purchased item 
 Item_ID:A unique code assigned to each product or item. 
 Price_Per_Unit:The cost of one unit of the item purchased. Useful for calculating total spending and identifying pricing trends.
