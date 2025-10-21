@@ -79,6 +79,17 @@ Based solely on these numbers, marketing efforts could be evenly split between t
 
 __RFM Analysis__
 
+RFM looks at below;
+
+Recency:How recently a customer made a purchase or engaged with the business
+Frequency:How often a customer has made a purchase within a specific time period.
+Monetary Value:The total amount of money the customer has spent with the business over a specific period.
+
+The RFM analysis places CUST_05 as the top-scoring customer, thanks to their strong Monetary and Frequency scores. CUST_01 follows closely in second place.
+These customers demonstrate high engagement with the company and contribute significant revenue, making them our key accounts.
+The other companies fall into a secondary tier, performing reasonably well but not at the level of CUST_05 and CUST_01.
+While only the top 10 customers are displayed here, lower RFM scores in the overall dataset may indicate customers who are at risk of churn or potentially disengaging.
+
 <img width="1750" height="1750" alt="RFM" src="https://github.com/user-attachments/assets/f4cdc976-f2b4-491b-9a7c-aa7ea6bc33e9" />
 
 # Project Overview
