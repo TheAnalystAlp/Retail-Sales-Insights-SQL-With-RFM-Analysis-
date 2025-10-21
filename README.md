@@ -3,20 +3,13 @@
 This project demonstrates end-to-end SQL data analysis on a fictional retail store dataset.  
 I have covered every stage of the data analytics lifecycle — from data validation and cleaning to exploratory analysis and advanced customer segmentation (RFM).
 
-# Tools & Techniques
-* MySQL 
-* Window Functions (ROW_NUMBER, COUNT, SUM)**
-* CTEs for segmentation**
-* RFM Scoring System
-
 # Objective
-The goal is to uncover actionable business insights such as:
+The goal is to uncover actionable business insights to find the optimal marketing campaign launch conditions by asking :
 - Who are the most valuable and frequent customers?  
 - Which products and categories drive the most revenue?  
-- When is the best time to launch marketing campaigns?  
+- When is the best time to launch marketing campaign?
+- What is the best way to launch marketing campaign?  
 - How can RFM segmentation help identify customer loyalty and retention opportunities?
-  
-_ _I looked at the issue as  as a business to problem to launch a marketing campaign so the below questions are needed to answered to which products and customer to focus__
 
 # Data Set
 The dataset was originally sourced from Kaggle; however, I modified it to better suit the specific needs of my project.
@@ -34,6 +27,11 @@ Please refer to repository for the altered data set.It contains;
 * Transaction_Date:The date (and possibly time) when the transaction occurred. Essential for time-based analyses, such as monthly sales or seasonal trends.
 * Discount_Applied:Indicates whether a discount was used in the transaction (could be a binary indicator or percentage value). Useful for assessing the impact of promotions on sales and customer behavior.
 
+# Tools & Techniques
+* MySQL 
+* Window Functions (ROW_NUMBER, COUNT, SUM)**
+* CTEs for segmentation**
+* RFM Scoring System
 
 # Project Overview
 
@@ -48,6 +46,17 @@ _ _At first glance, the data looked messy — inconsistent category names, missi
 7. Advanced Analysis: RFM Segmentation
 8. Summary of Insights will be shown below
 
+# PResults / Insights 
+
+  <img width="332" height="106" alt="1" src="https://github.com/user-attachments/assets/61634b51-a573-42cb-88a6-266776423a1b" />
+
 # Project Overview
 
+Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
+
+My Website:https://alptheanalyst.wixsite.com/alptuna
+
+My E-Mail:alptuna.professional@gmail.com
+
+Link for the Colab file:https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA 
 
