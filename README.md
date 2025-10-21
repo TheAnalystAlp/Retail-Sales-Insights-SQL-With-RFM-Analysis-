@@ -1,24 +1,22 @@
 # Retail Sales Insights | SQL (With RFM Analysis)
 
-1. Identify Highest Spending Customers and Their Favorite Categories
-Analyze customer purchase data to find the top spenders in your stores.
-Determine which product categories these high-value customers spend the most on.
-This helps understand customer preferences and prioritize offerings.
-2. Determine Products and Categories to Prioritize
-Based on frequent customer purchases, identify the products and categories with the highest demand.
-Use this information to focus inventory, promotions, and marketing efforts on these priority items.
-3. Analyze Past Sales Trends to Find the Optimal Campaign Timing
-Review sales data from 2024 to identify seasonal patterns and peak purchasing periods.
-Determine the time of year, month, or week when your target customers are most active.
-Use this insight to schedule the campaign for maximum impact.
-4. Recommend the Best Campaign Launch Strategy
-Decide on the type of campaign (email, social media, in-store promotion, or multi-channel).
-Tailor messaging to high-value customers and highlight prioritized products and categories.
-Combine timing insights with targeted promotions to maximize engagement and ROI.
+# 🏪 Retail Sales Insights — SQL Project (With RFM Analysis)
 
-At first glance, the data looked messy — inconsistent category names, missing values represented as \N, and even some potential duplicates. So before doing any complex analysis, I focused on one thing: getting the data right.
+## 📖 Overview
+This project demonstrates **end-to-end SQL data analysis** on a fictional retail store dataset.  
+It covers every stage of the data analytics lifecycle — from **data validation** and **cleaning** to **exploratory analysis** and **advanced customer segmentation (RFM)**.  
+
+The goal is to uncover actionable business insights such as:
+- Who are the most valuable and frequent customers?  
+- Which products and categories drive the most revenue?  
+- When is the best time to launch marketing campaigns?  
+- How can RFM segmentation help identify customer loyalty and retention opportunities?
+
+
 
 # Project Overview
+
+_ _At first glance, the data looked messy — inconsistent category names, missing values represented as \N, and even some potential duplicates. So before doing any complex analysis, I focused on one thing: getting the data right.__
 
 1. Data Validation:Ensured that all records have been implemented and data integrity is intact.
 2. Data Staging:Created staging tables for safe data cleaning and transformation.
