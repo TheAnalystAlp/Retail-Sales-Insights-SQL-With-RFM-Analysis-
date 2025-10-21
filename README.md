@@ -77,6 +77,10 @@ Based solely on these numbers, marketing efforts could be evenly split between t
 
 <img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/139d3141-fe0b-40cf-902e-96f97775b995" />
 
+__RFM Analysis__
+
+<img width="1500" height="1500" alt="RFM" src="https://github.com/user-attachments/assets/f4cdc976-f2b4-491b-9a7c-aa7ea6bc33e9" />
+
 # Project Overview
 
 Feel free to reach me at; Linkedin:www.linkedin.com/in/alp-tuna
