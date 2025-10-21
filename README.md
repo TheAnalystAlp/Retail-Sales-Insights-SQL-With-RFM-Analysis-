@@ -102,3 +102,5 @@ My E-Mail:alptuna.professional@gmail.com
 
 Link for the Colab file:[https://colab.research.google.com/drive/1oXrwRaj9hJYkiJVktSucdZ0gkGIsQ_VA ](https://colab.research.google.com/drive/1lP6t4pHuJGTe1LO0ynJ8ypPAcn7KwVjc?usp=sharing)
 
+Link for the Data Set:https://github.com/TheAnalystAlp/Retail-Sales-Insights-SQL-With-RFM-Analysis-/blob/main/retail_store_sales.csv
+
