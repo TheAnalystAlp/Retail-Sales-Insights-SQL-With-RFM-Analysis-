@@ -66,14 +66,14 @@ __When to Lauch the marketing campaign__
 
 As could be expected, the end and the beginning of the year are the best periods due to higher sales volumes, which is typical in retail.”
 
-<img width="1000" height="1000" alt="3" src="https://github.com/user-attachments/assets/eabd16ce-76a8-4e25-96c5-1c2efebe131d" />
+<img width="750" height="750" alt="3" src="https://github.com/user-attachments/assets/eabd16ce-76a8-4e25-96c5-1c2efebe131d" />
 
 __Which Location to Launch the Marketing Campaign__
 
 There are only two business locations in the dataset, and the number of transactions is very similar for both. 
 Based solely on these numbers, marketing efforts could be evenly split between the two locations.
 
-<img width="1000" height="1000" alt="4" src="https://github.com/user-attachments/assets/8f45a34a-4a40-4d48-a5c3-eda843648c7b" />
+<img width="750" height="750" alt="4" src="https://github.com/user-attachments/assets/8f45a34a-4a40-4d48-a5c3-eda843648c7b" />
 
 
 # Project Overview
