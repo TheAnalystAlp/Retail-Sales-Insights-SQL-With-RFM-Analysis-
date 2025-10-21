@@ -73,8 +73,7 @@ __Which Location to Launch the Marketing Campaign__
 There are only two business locations in the dataset, and the number of transactions is very similar for both. 
 Based solely on these numbers, marketing efforts could be evenly split between the two locations.
 
-<img width="750" height="750" alt="4" src="https://github.com/user-attachments/assets/8f45a34a-4a40-4d48-a5c3-eda843648c7b" />
-
+<img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/139d3141-fe0b-40cf-902e-96f97775b995" />
 
 # Project Overview
 
