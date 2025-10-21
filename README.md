@@ -62,6 +62,8 @@ Butchers: Item_25_BUT and Item_22_BUT
 Beverages: Item_25_EHE
 These items are among the most frequently bought products. Therefore, our efforts should focus on these categories, as they represent high-demand goods.
 
+<img width="1500" height="1500" alt="2" src="https://github.com/user-attachments/assets/4dcf27d5-f849-4d98-b7f5-7e79c0b98d32" />
+
 __When to Lauch the marketing campaign__
 
 As could be expected, the end and the beginning of the year are the best periods due to higher sales volumes, which is typical in retail.”
