@@ -1,16 +1,16 @@
 # Retail Sales Insights | SQL (With RFM Analysis)
-
-# 🏪 Retail Sales Insights — SQL Project (With RFM Analysis)
-
 ## 📖 Overview
-This project demonstrates **end-to-end SQL data analysis** on a fictional retail store dataset.  
-It covers every stage of the data analytics lifecycle — from **data validation** and **cleaning** to **exploratory analysis** and **advanced customer segmentation (RFM)**.  
+This project demonstrates end-to-end SQL data analysis on a fictional retail store dataset.  
+I have covered every stage of the data analytics lifecycle — from data validation and cleaning to exploratory analysis and advanced customer segmentation (RFM). 
 
+## Objective
 The goal is to uncover actionable business insights such as:
 - Who are the most valuable and frequent customers?  
 - Which products and categories drive the most revenue?  
 - When is the best time to launch marketing campaigns?  
 - How can RFM segmentation help identify customer loyalty and retention opportunities?
+  
+_ _I looked at the issue as  as a business to problem to launch a marketing campaign so the below questions are needed to answered to which products and customer to focus__
 
 
 
