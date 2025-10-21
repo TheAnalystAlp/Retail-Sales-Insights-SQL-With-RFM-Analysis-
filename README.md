@@ -46,9 +46,10 @@ _ _At first glance, the data looked messy — inconsistent category names, missi
 7. Advanced Analysis: RFM Segmentation
 8. Summary of Insights will be shown below
 
-# PResults / Insights 
+# Results / Insights 
 
-  <img width="332" height="106" alt="1" src="https://github.com/user-attachments/assets/61634b51-a573-42cb-88a6-266776423a1b" />
+<img width="499" height="155" alt="1" src="https://github.com/user-attachments/assets/414a32a6-472b-43f6-b0d9-e60a3e71bb0f" />
+
 
 # Project Overview
 
