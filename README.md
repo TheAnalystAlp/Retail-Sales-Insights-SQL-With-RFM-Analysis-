@@ -35,7 +35,7 @@ Please refer to repository for the altered data set.It contains;
 
 # Project Overview
 
-_ _At first glance, the data looked messy — inconsistent category names, missing values represented as \N, and even some potential duplicates. So before doing any complex analysis, I focused on one thing: getting the data right.__
+_At first glance, the data looked messy — inconsistent category names, missing values represented as \N, and even some potential duplicates. So before doing any complex analysis, I focused on one thing: getting the data right._
 
 1. Data Validation:Ensured that all records have been implemented and data integrity is intact.
 2. Data Staging:Created staging tables for safe data cleaning and transformation.
