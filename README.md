@@ -19,12 +19,12 @@ Please refer to repository for the altered data set.It contains;
 * Customer_ID:A unique identifier for each customer
 * Category:The general classification of the purchased item 
 * Item_ID:A unique code assigned to each product or item. 
-* Price_Per_Unit:The cost of one unit of the item purchased. Useful for calculating total spending and identifying pricing trends.
+* Price_Per_Unit:The cost of one unit of the item purchased. 
 * Quantity:The number of units purchased in the transaction.
 * Total_Spent:The total monetary value of the transaction for that item.
-* Payment_Method:The method used by the customer to complete the purchase (e.g., Credit Card, Cash, Online Payment). Useful for payment trend analysis.
-* Location:The store, city, or region where the transaction took place. Helpful for geographic sales analysis and regional performance comparison.
-* Transaction_Date:The date (and possibly time) when the transaction occurred. Essential for time-based analyses, such as monthly sales or seasonal trends.
+* Payment_Method:The method used by the customer to complete the purchase 
+* Location:The store, city, or region where the transaction took place. 
+* Transaction_Date:The date when the transaction occurred.
 * Discount_Applied:Indicates whether a discount was used in the transaction (could be a binary indicator or percentage value). Useful for assessing the impact of promotions on sales and customer behavior.
 
 # Tools & Techniques
