@@ -25,7 +25,7 @@ Please refer to repository for the altered data set.It contains;
 * Payment_Method:The method used by the customer to complete the purchase 
 * Location:The store, city, or region where the transaction took place. 
 * Transaction_Date:The date when the transaction occurred.
-* Discount_Applied:Indicates whether a discount was used in the transaction (could be a binary indicator or percentage value). Useful for assessing the impact of promotions on sales and customer behavior.
+* Discount_Applied:Indicates whether a discount was used in the transaction 
 
 # Tools & Techniques
 * MySQL 
