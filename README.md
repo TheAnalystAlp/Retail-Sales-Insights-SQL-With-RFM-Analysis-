@@ -66,7 +66,7 @@ These items are among the most frequently bought products. Therefore, our effort
 
 __When to Lauch the marketing campaign__
 
-As could be expected, the end and the beginning of the year are the best periods due to higher sales volumes, which is typical in retail.”
+As could be expected, the end and the beginning of the year are the best periods due to higher sales volumes, which is typical in retail
 
 <img width="750" height="750" alt="3" src="https://github.com/user-attachments/assets/eabd16ce-76a8-4e25-96c5-1c2efebe131d" />
 
