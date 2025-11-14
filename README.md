@@ -1,6 +1,4 @@
-<img width="1178" height="183" alt="Ekran görüntüsü 2025-11-14 002814" src="https://github.com/user-attachments/assets/a036537b-8eea-4788-8bee-b18349a9ca08" />
 <img width="1920" height="1080" alt="Copy of Copy of SURVEY ANALYSIS DASHBOARD SLIDES FINAL (3)" src="https://github.com/user-attachments/assets/784deb1f-355b-4f4c-b327-6adc3c554adc" />
-
 # Retail Sales Insights | SQL (With RFM Analysis)
 # Overview
 This project demonstrates end-to-end SQL data analysis on a fictional retail store dataset.  
