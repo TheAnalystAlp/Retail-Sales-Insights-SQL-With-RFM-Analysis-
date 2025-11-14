@@ -1,4 +1,5 @@
-<img width="825" height="119" alt="Ekran görüntüsü 2025-11-14 003727" src="https://github.com/user-attachments/assets/c8759488-fa66-49c1-b886-ebc0458e7a6e" />
+<img width="1000" height="1000" alt="Ekran görüntüsü 2025-11-14 003727" src="https://github.com/user-attachments/assets/c8759488-fa66-49c1-b886-ebc0458e7a6e" />
+
 # Retail Sales Insights | SQL (With RFM Analysis)
 # Overview
 This project demonstrates end-to-end SQL data analysis on a fictional retail store dataset.  
