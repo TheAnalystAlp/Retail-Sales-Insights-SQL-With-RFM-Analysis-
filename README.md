@@ -1,4 +1,4 @@
-<img width="1000" height="1000" alt="Copy of Copy of SURVEY ANALYSIS DASHBOARD SLIDES FINAL (1)" src="https://github.com/user-attachments/assets/74be03d0-ff2d-46df-b3ab-472b2669b0b8" />
+<img width="1000" height="5000" alt="Copy of Copy of SURVEY ANALYSIS DASHBOARD SLIDES FINAL (1)" src="https://github.com/user-attachments/assets/74be03d0-ff2d-46df-b3ab-472b2669b0b8" />
 
 # Retail Sales Insights | SQL (With RFM Analysis)
 # Overview
