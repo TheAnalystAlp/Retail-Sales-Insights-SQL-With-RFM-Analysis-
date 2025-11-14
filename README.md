@@ -1,4 +1,4 @@
-<img width="1000" height="50" alt="BANNER" src="https://github.com/user-attachments/assets/3b63bbd3-57a5-4472-a111-d3071dfc35c0" />
+<img width="1000" height="500" alt="BANNER" src="https://github.com/user-attachments/assets/3b63bbd3-57a5-4472-a111-d3071dfc35c0" />
 
 # Retail Sales Insights | SQL (With RFM Analysis)
 # Overview
