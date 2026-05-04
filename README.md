@@ -1,4 +1,4 @@
-<img width="250" height="250" alt="Ekran görüntüsü 2025-11-14 003727" src="https://github.com/user-attachments/assets/c8759488-fa66-49c1-b886-ebc0458e7a6e" />
+<img width="825" height="119" alt="Ekran görüntüsü 2025-11-14 003727" src="https://github.com/user-attachments/assets/e46517bc-2f21-4209-8ff8-a0d881ca69eb" />
 
 # Retail Sales Insights | SQL (With RFM Analysis)
 # Overview
