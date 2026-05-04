@@ -56,7 +56,7 @@ __Which Customers to Focus on;__
 
 Based on the data (limited to the top 10 for clarity), we can see that the highest average order value belongs to the “Butchers” category, with Customer_5 leading in total spending. This customer also shows significant spending in the Beverages category. Similarly, Customer_13 demonstrates considerable spending in Electric Household Essentials and Food. Therefore, if the campaign were to target specific customers, focusing on these high-value individuals could maximize the overall return and campaign effectiveness.
 
-<img width="1500" height="1500" alt="1" src="https://github.com/user-attachments/assets/414a32a6-472b-43f6-b0d9-e60a3e71bb0f" />
+<img width="673" height="209" alt="1" src="https://github.com/user-attachments/assets/c2867406-0533-4ee8-be27-6c48e06ebe59" />
 
 __Which Products to Focus on;__
 In this section, we examine which products are frequently purchased.
@@ -64,20 +64,20 @@ Butchers: Item_25_BUT and Item_22_BUT
 Beverages: Item_25_EHE
 These items are among the most frequently bought products. Therefore, our efforts should focus on these categories, as they represent high-demand goods.
 
-<img width="1500" height="1500" alt="2" src="https://github.com/user-attachments/assets/4dcf27d5-f849-4d98-b7f5-7e79c0b98d32" />
+<img width="255" height="97" alt="2" src="https://github.com/user-attachments/assets/27c196d9-1355-42e3-8b53-bc40fbf636a4" />
 
 __When to Lauch the marketing campaign__
 
 As could be expected, the end and the beginning of the year are the best periods due to higher sales volumes, which is typical in retail setting.
 
-<img width="750" height="750" alt="3" src="https://github.com/user-attachments/assets/eabd16ce-76a8-4e25-96c5-1c2efebe131d" />
+<img width="151" height="116" alt="3" src="https://github.com/user-attachments/assets/0a6de1fb-269a-4cee-84d0-25ed357a630f" />
 
 __Which Location to Launch the Marketing Campaign__
 
 There are only two business locations in the dataset, and the number of transactions is very similar for both. 
 Based solely on these numbers, marketing efforts could be evenly split between the two locations.
 
-<img width="500" height="500" alt="4" src="https://github.com/user-attachments/assets/139d3141-fe0b-40cf-902e-96f97775b995" />
+<img width="107" height="29" alt="4" src="https://github.com/user-attachments/assets/5403399e-dab2-4dcb-905e-8140572f2ebb" />
 
 __RFM Analysis__
 
