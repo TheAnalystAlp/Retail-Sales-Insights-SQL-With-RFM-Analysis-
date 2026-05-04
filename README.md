@@ -64,7 +64,7 @@ Butchers: Item_25_BUT and Item_22_BUT
 Beverages: Item_25_EHE
 These items are among the most frequently bought products. Therefore, our efforts should focus on these categories, as they represent high-demand goods.
 
-<img width="255" height="97" alt="2" src="https://github.com/user-attachments/assets/27c196d9-1355-42e3-8b53-bc40fbf636a4" />
+<img width="400" height="200" alt="2" src="https://github.com/user-attachments/assets/27c196d9-1355-42e3-8b53-bc40fbf636a4" />
 
 __When to Lauch the marketing campaign__
 
