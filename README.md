@@ -92,7 +92,7 @@ These customers demonstrate high engagement with the company and contribute sign
 The other companies fall into a secondary tier, performing reasonably well but not at the level of CUST_05 and CUST_01.
 While only the top 10 customers are displayed here, lower RFM scores in the overall dataset may indicate customers who are at risk of churn or potentially disengaging.
 
-<img width="396" height="98" alt="Ekran görüntüsü 2026-05-04 233231" src="https://github.com/user-attachments/assets/4ece68da-2d8a-44f9-9265-bbfd16193206" />
+<img width="400" height="150" alt="Ekran görüntüsü 2026-05-04 233231" src="https://github.com/user-attachments/assets/4ece68da-2d8a-44f9-9265-bbfd16193206" />
 
 # Links&References
 
